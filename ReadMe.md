@@ -1,6 +1,6 @@
 # David Thomsen Virtual Assistant
 
-## Find Sources used [HERE]([add link](https://github.com/dthomsen116/Virt-Assistant/blob/main/SourceFile.md)) 
+## Find Sources used [HERE](https://github.com/dthomsen116/Virt-Assistant/blob/main/SourceFile.md)
 
 ### Description
 
