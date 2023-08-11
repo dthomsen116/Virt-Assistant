@@ -13,5 +13,5 @@ Use `pip install -r requirements.txt` for required packages
 - Provides Date and Time
 - Uses wikipedia to answer queries
 - Opens up groups of useful tabs for school work
-- plays Youtube Videos
+- Plays Youtube Videos
 - More features on the way...
