@@ -8,3 +8,10 @@ I wanted to work to create a local virtual assistant that can help with daily ta
 
 Use `pip install -r requirements.txt` for required packages
 
+## What Does it Do?
+
+- Provides Date and Time
+- Uses wikipedia to answer queries
+- Opens up groups of useful tabs for school work
+- Gathers weather using beautifulsoup
+- More features on the way...
